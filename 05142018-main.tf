@@ -62,7 +62,6 @@ resource "aws_security_group" "instance" {
   }
 }
 
-
 output "public_ip" {
   value = "${aws_instance.example.public_ip}"
 }
