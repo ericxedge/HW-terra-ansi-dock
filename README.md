@@ -1,6 +1,6 @@
 # HW-terra-ansi-dock
 # LIFT!
-Learn Improve Fix Teach!!  
+Learn Improve Fix Teach!
 
 This provides a terraform and ansible file that will create an AWS instance with a docker hello world site.  
 
